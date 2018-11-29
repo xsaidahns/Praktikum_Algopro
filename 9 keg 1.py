@@ -1,0 +1,5 @@
+a = open("L200180163.txt", "w")
+a.write("L200180163" "\n")
+a.write("10-01-2000" "\n")
+a.write("Saidah Nur Saputri")
+a.close()
